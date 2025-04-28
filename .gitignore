@@ -26,3 +26,5 @@ build-jim-ext
 *.gcov
 coverage*.html
 jimtcl.pc
+*.wasm
+*.html
