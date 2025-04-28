@@ -111,6 +111,10 @@ To compile Jim itself try:
   ./configure
   make
 
+If you want to compile for Emscripten:
+  
+  ./build.sh
+
 --------------------------------------------------------------------------------
 EXTENSIONS
 --------------------------------------------------------------------------------
